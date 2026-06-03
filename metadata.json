@@ -1,5 +1,5 @@
 {
-  "version": 11,
-  "dex_url": "https://github.com/TurnerWill32678/android-plugin-repo/raw/refs/heads/main/plugin.dex",
+  "version": 1,
+  "dex_url": "https://github.com/TurnerWill32678/plugin-test/raw/refs/heads/main/plugin.dex",
   "changelog": "....."
 }
